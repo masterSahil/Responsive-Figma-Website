@@ -1010,4 +1010,5 @@ header nav{
     color: var(--white);
     background: var(--orange-color);
     padding: 10px 14px;
+    z-index: 101;
 }
